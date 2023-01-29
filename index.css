@@ -284,6 +284,7 @@ align-items: center;
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    position: sticky;
 }
 .gpt3__navbar-links_logo{
     margin-right: 2rem;
